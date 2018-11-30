@@ -1,0 +1,14 @@
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\bin\Release\ColorPicker.exe.config
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\bin\Release\ColorPicker.exe
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\bin\Release\ColorPicker.pdb
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\obj\Release\MainWindow.g.cs
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\obj\Release\App.g.cs
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\obj\Release\ColorPicker_MarkupCompile.cache
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\obj\Release\ColorPicker_MarkupCompile.lref
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\obj\Release\MainWindow.baml
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\obj\Release\ColorPicker.g.resources
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\obj\Release\ColorPicker.Properties.Resources.resources
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\obj\Release\colorpicker.csproj.GenerateResource.cache
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\obj\Release\colorpicker.csproj.CoreCompileInputs.cache
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\obj\Release\ColorPicker.exe
+C:\Users\vlakatos\Source\Repos\colorpicker\colorpicker\obj\Release\ColorPicker.pdb
